@@ -3,3 +3,6 @@ sosha
 aam
 kathal
 chicken
+
+
+alu 
